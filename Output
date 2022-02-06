@@ -1,0 +1,858 @@
+******####### WELCOME TO GEMpak BANK #######*******
+MAIN MENU
+1. BUSINESS LOAN
+2. PERSONAL ACCOUNT
+3. CREDIT CARD
+4. HOUSING LOAN
+5. INVESTMENT
+******######################################*******
+Please choose your service :1
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+1
+----------------------------------------------------------
+This is information about Loan 
+----------------------------------------------------------
+Eligibility:
+-Below RM25 million annual sales turnover
+-Below RM5 million outstanding loan/financing with GEMpak
+-Malaysian-owned registered company
+-More than 1 year in operation
+----------------------------------------------------------
+
+Enter 00 to back to main menu :
+00
+
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+2
+There are 2 types of application method: 
+1.  By online application
+2.  By branch application
+
+Enter 00 to back to main menu :
+00
+
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+3
+Not sure which application method suits you better? Here are the key differences to help you decide:
+
+1.  Online Application
+    a) Financing amount: RM10,000 – RM250,000
+    b) Financing tenure: Up to 5 years
+    c) Business operation period: Minimum 1 year
+
+2.  Branch Application
+    a) Financing amount: RM50,001– RM1,500,000
+    b) Financing tenure: Up to 7 years
+    c) Business operation period: Minimum 3 year
+
+Enter 00 to back to main menu :
+00
+
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+4
+The interest rate is 4.5%
+
+Enter 00 to back to main menu :
+00
+
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+5
+Enter your name: 
+aisyah
+Enter your number phone: 
+01156533696
+Enter your account number: 
+02145369875123
+Enter business operation period (in months): 
+24
+Enter your annual revenue: 
+10000
+Enter the amount of loan: 
+15000
+Enter financing tenure: 
+7
+
+Enter 1 to proceed to monthly payment calculation
+1
+Monthly payment is RM 208.50
+Total payment is RM 17514.20
+RECORD HAS BEEN ADDED SUCCESSFULLY!!
+
+-------------------------------------------
+DO YOU WANT TO ADD ANOTHER INPUT (Y/N): 
+y
+-------------------------------------------
+Enter your name: 
+akim
+Enter your number phone: 
+0123654789
+Enter your account number: 
+32054069807105
+Enter business operation period (in months): 
+36
+Enter your annual revenue: 
+20000
+Enter the amount of loan: 
+30000
+Enter financing tenure: 
+7
+
+Enter 1 to proceed to monthly payment calculation
+1
+Monthly payment is RM 417.00
+Total payment is RM 35028.41
+RECORD HAS BEEN ADDED SUCCESSFULLY!!
+
+-------------------------------------------
+DO YOU WANT TO ADD ANOTHER INPUT (Y/N): 
+n
+-------------------------------------------
+Enter 00 to back to main menu :
+00
+
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+6
+---------------------------------------------------------------------------------------------------------------------------------
+Name                Phone Number        Account Number      Loan amount (RM)    Monthly payment(RM) Total payment(RM)
+---------------------------------------------------------------------------------------------------------------------------------
+aisyah              01156533696         02145369875123      15000               208.50              17514.20  
+akim                0123654789          32054069807105      30000               417.00              35028.41  
+---------------------------------------------------------------------------------------------------------------------------------
+Enter 00 to back to main menu :
+00
+
+THIS IS FOR BUSINESS LOAN SERVICE ONLY
+1. Information of Loan
+2. Type of application method
+3. Information about application method
+4. The interest rate
+5. Input information
+6. View Record
+7. Exit
+PLEASE CHOOSE ONE OF THE ABOVE OPTIONS:
+7
+If you have any problem about business loan, you can contact our customer service: 
+------------------------------------
+ 1    Zakri         011 7789 5464 
+------------------------------------
+ 2    Ahmad         011 8942 1215 
+------------------------------------
+ 3    Siti          019 6539 844  
+------------------------------------
+
+Or you also can contact us via email
+
+Email : bankGEMbusinessLoan@gmail.com
+
+DO YOU WANT TO RETURN TO THE MAIN MENU  ? Y=YES N=NO
+y
+******####### WELCOME TO GEMpak BANK #######*******
+MAIN MENU
+1. BUSINESS LOAN
+2. PERSONAL ACCOUNT
+3. CREDIT CARD
+4. HOUSING LOAN
+5. INVESTMENT
+******######################################*******
+Please choose your service :2
+__________________________________________________________________________________________________________
+### WELCOME TO GEMpak Personal Account Service ###
+#  1.	Register New User                        #
+#  2.	DuitNow                                  #
+#  3.	Exit                                     #
+##################################################
+CHOOSE ONE OF THE OPTION ABOVE : 1
+
+XXXXXXXXXXXXXXXXXXX NEW USER XXXXXXXXXXXXXXXXXXXXX
+
+______PLEASE INSERT THE INFORMATION DETAILS______
+
+ Full Name : NURUL ALYA BINTI ALI
+ Account Number: 0123456789
+ Number Phone: 01125639874
+
+--------THANK YOU FOR REGISTERING WITH US !---------
+--------NOW YOU ARE MEMBER OF GEMpak BANK !---------
+__________________________________________________________________________________________________________
+### WELCOME TO GEMpak Personal Account Service ###
+#  1.	Register New User                        #
+#  2.	DuitNow                                  #
+#  3.	Exit                                     #
+##################################################
+CHOOSE ONE OF THE OPTION ABOVE : 2
+
+XXXXXXXXXXXXXXXXXXX DuitNow XXXXXXXXXXXXXXXXXXXXX
+
+Your Account Number : 0123456789
+
+______PLEASE INSERT THE INFORMATION DETAILS______
+Recipient Bank Name : maybank
+Recipient Account : 7896541230
+Recipient Name : Siti Aisyah
+Recipient Reference : giveaway
+Amount : RM 100
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^  *Fee : 2%                                                           ^
+^  *Please take note that RM1.00 will be charged for every transaction ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+CHOOSE 1 TO CONTINUE !
+1
+Total that have been charged : RM 103.00
+
+
+-----------------------------------------------------
+          **TRANSACTION SUCCESSFULL**                
+-----------------------------------------------------
+
+DO YOU WANT TO ADD ANOTHER TRANSACTION? (Y/N) : y
+Your Account Number : 0258741369
+
+______PLEASE INSERT THE INFORMATION DETAILS______
+Recipient Bank Name : cimb
+Recipient Account : 0321698547
+Recipient Name : najihah
+Recipient Reference : rent
+Amount : RM 350
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^  *Fee : 2%                                                           ^
+^  *Please take note that RM1.00 will be charged for every transaction ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+CHOOSE 1 TO CONTINUE !
+1
+Total that have been charged : RM 358.00
+
+
+-----------------------------------------------------
+          **TRANSACTION SUCCESSFULL**                
+-----------------------------------------------------
+
+DO YOU WANT TO ADD ANOTHER TRANSACTION? (Y/N) : n
+__________________________________________________________________________________________________________
+### WELCOME TO GEMpak Personal Account Service ###
+#  1.	Register New User                        #
+#  2.	DuitNow                                  #
+#  3.	Exit                                     #
+##################################################
+CHOOSE ONE OF THE OPTION ABOVE : 3
+------------------------------------------------------- 
+THANK YOU FOR USING GEMpak Bank Personal Account Service
+------------------------------------------------------- 
+______________________________________________________________________________________________________________
+
+##    ##     ##    #########  #########  ##        ##      ######## ######### ######## #########    ### ### 
+##    ##   ##  ##  ##     ##  ##     ##  ###      ##       ######## ######### ######## #########    ### ### 
+########  ##    ## ##     ##  ##     ##   ###   ###              ## ##     ##       ##        ##    ### ### 
+######## ######### #########  #########     #####          ######## ##     ## ######## #########    ### ### 
+##    ## ##     ## ##         ##              ##           ##       ##     ## ##       ##           ### ### 
+##    ## ##     ## ##         ##              ##           ######## ######### ######## #########            
+##    ## ##     ## ##         ##              ##           ######## ######### ######## #########    ### ### 
+______________________________________________________________________________________________________________
+
+                                  TO OUR BELOVED GEMpak BANK USER <3                                      
+                             We are going to send you some present to you <3                                
+______________________________________________________________________________________________________________
+                               LETS PLAY A GUESS NUMBER GAME FIRST !!                                     
+
+                   You Will Be Asked To Guess A Number Before Proceed to your gifts                       
+                                        You can attempt 5 times                                             
+
+A number is chosen between 1 to 100.
+Guess the number:
+52
+The number is less than 52
+Guess the number:
+40
+The number is greater than 40
+Guess the number:
+45
+The number is less than 45
+Guess the number:
+43
+The number is less than 43
+Guess the number:
+42
+Congratulations! You guessed the number.
+___________________________________________________________________________________________________________
+
+                                  PLEASE CHOOSE YOUR GIFTS<3                                             
+
+1.Notebook + Calender      
+
+2.Bag + Calender           
+
+3.Tumblr Bottle + Calender 
+
+4.We Bare Bear + Calender  
+
+5.Colour Pencil + Calender 
+
+Insert the NUMBER : 4
+
+You choose We Bare Bear and 2022 Calender as a gift. 
+
+DO YOU WANT TO RETURN TO THE MAIN MENU  ? Y=YES N=NO
+y
+******####### WELCOME TO GEMpak BANK #######*******
+MAIN MENU
+1. BUSINESS LOAN
+2. PERSONAL ACCOUNT
+3. CREDIT CARD
+4. HOUSING LOAN
+5. INVESTMENT
+******######################################*******
+Please choose your service :3
+This system is for Credit Card utility
+
+1.Payment using credit card
+2.Gift shop
+3.Credit Card Calculator
+4.Exit
+
+**************************************************************************************
+Choose what you want to do:
+1
+You choose credit card payment
+Welcome to credit card payment
+Purchase for smartphone and laptop made in 10/6/2021:
+
+Enter the price of smartphone:
+1500
+Enter the price of laptop:
+3000
+
+Purchase for petrol,air plane ticket, insurance and house debt made in 20/6/2021:
+
+Enter the price of petrol:
+50
+Enter the price of air plane ticket:
+350
+Enter the price of insurance:
+1500
+Enter the price of house debt:
+3500
+
+Purchase for car debt and hotel booking made in 30/6/2021:
+
+Enter the price of car debt:
+600
+Enter the price of hotel booking:
+150
+Purchase to be made in June using Credit Card:
+_____________________________________________
+|DATE       |ITEM                  |PRICE    |
+|___________|______________________|_________|
+| 10/6/2021 |* SMARTPHONE          |RM1500.0 |
+|           |* LAPTOP              |RM3000.0 |
+|___________|______________________|_________|
+| 20/6/2021 |*PETROL               |RM50.0   |
+|           |*AIRPLANE TICKET      |RM350.0  |
+|           |*INSURANCE            |RM1500.0 |
+|           |*HOUSE DEBT           |RM3500.0 |
+|___________|______________________|_________|
+| 30/6/2021 |*CAR DEBT             |RM600.0  |
+|           |*HOTEL BOOKING        |RM150.0  |
+|___________|______________________|_________|
+________________________________________________________________________________________
+|TYPE |TYPE                                  | CREDIT CARD NUMBER| EXPARITION DATE| CCV |
+|_____|______________________________________|___________________|________________|_____|
+|  1  |GEMpak e Credit Card                  |1111-2222-3333-4444|     21/27      | 445 |
+|_____|______________________________________|___________________|________________|_____|
+|  2  |GEMpak Petronas Platinum MasterCard   |2324-5957-9128-5387|     09/28      | 499 |
+|_____|______________________________________|___________________|________________|_____|
+|  3  |GEMpak Platinum Explore Credit Card-i |7979-6124-6996-9000|     01/25      | 321 |
+|_____|______________________________________|___________________|________________|_____|
+Choose what credit type you want to use:
+2
+You choose GEMpak Petronas Platinum MasterCard
+Your balance for this credit card is RM 80000.0
+You have 7% cashback for this credit card
+Your limit for GEMpak Petronas Platinum MasterCard is RM 69350.0
+Your Cashback is RM 69350.035
+Total debt to be pay per monthly is RM 887.5
+Your unpaid Debt for this credit card is RM1000
+
+What is you current money:
+3000
+The annual interest rate for 3 credit card is 15%
+Your charge payment for this month is RM
+887.50
+Your money left is RM 2112.50
+This system is for Credit Card utility
+
+1.Payment using credit card
+2.Gift shop
+3.Credit Card Calculator
+4.Exit
+
+**************************************************************************************
+Choose what you want to do:
+2
+You choose gift shop
+
+
+Welcome Gift Shop:
+___________________________________
+|ITEM                  |ITEM CODE  |
+|______________________|___________|
+|* Samsung Smartphone  |    1      |
+|* Trip to Langkawi    |    2      |
+|* GCS Ticket Movie    |    3      |
+|* PS4                 |    4      |
+|* ASUS Laptop         |    5      |
+|______________________|___________|
+
+You have 30 points in your credit card
+
+You can choose 3 Item in Gift Shop, due to purchase made this month
+Choose item that you interest in the point shop:
+1
+You choose Samsung Smartphone
+You have 2 left to choose your gift
+Choose item that you interest in the point shop:
+4
+You choose PS4
+You have 1 left to choose your gift
+Choose item that you interest in the point shop:
+5
+You choose ASUS Laptop
+You have 0 left to choose your gift
+We hope you like the gift
+This system is for Credit Card utility
+
+1.Payment using credit card
+2.Gift shop
+3.Credit Card Calculator
+4.Exit
+
+**************************************************************************************
+Choose what you want to do:
+3
+You choose credit card calculator
+Welcome to payment calculator
+This program will calculate how much money you use to pay up credit card debt in a month
+
+Select how many probability you want to see: 1
+
+_________________________________________________________________________
+The 1 calculation
+How much you invest for this credit card: 500
+Annual interst rate for this credit card: 4.5
+Enter how much yo spend for this month:
+3500
+
+Interst: 1.875
+Paid amount: 501.875
+Balance of debt left: RM -2998.125
+_________________________________________________________________________
+
+This system is for Credit Card utility
+
+1.Payment using credit card
+2.Gift shop
+3.Credit Card Calculator
+4.Exit
+
+**************************************************************************************
+Choose what you want to do:
+4
+Thank you for using our program
+
+DO YOU WANT TO RETURN TO THE MAIN MENU  ? Y=YES N=NO
+y
+******####### WELCOME TO GEMpak BANK #######*******
+MAIN MENU
+1. BUSINESS LOAN
+2. PERSONAL ACCOUNT
+3. CREDIT CARD
+4. HOUSING LOAN
+5. INVESTMENT
+******######################################*******
+Please choose your service :4
+
+MENU
+
+1. REGISTER 
+
+2. LOAN CALCULATOR 
+
+3. TYPE HOUSE 
+
+4. E-STATEMENT 
+
+5. EXIT 
+
+SELECT CHOOSE: 1
+
+XXXXXXXXXXXXXXXXXXX NEW USER XXXXXXXXXXXXXXXXXXXXX
+
+______PLEASE INSERT THE INFORMATION DETAILS______
+
+ Full Name : NURUL HUMAIRA BINTI FIRDAUS
+ Account Number: 02589963147
+ Number Phone: 0123659874
+
+--------THANK YOU FOR REGISTERING WITH US !---------
+--------NOW YOU ARE MEMBER OF GEMpak BANK !---------
+
+MENU
+
+1. REGISTER 
+
+2. LOAN CALCULATOR 
+
+3. TYPE HOUSE 
+
+4. E-STATEMENT 
+
+5. EXIT 
+
+SELECT CHOOSE: 2
+
+ENTER YOUR NAME : 
+HUMAIRAH
+
+ENTER THE LOAN AMOUNT : 
+350000
+
+ENTER THE INTERST RATE : 
+4.5
+
+ENTER THE NUMBER OF YEARS : 
+30
+
+*---YOUR TOTAL MONTHLY PAYMENT AND TOTAL PAYMENT---*
+
+THE TOTAL MONTHLY PAYMENT IS RM 1773
+
+THE TOTAL PAYMENT IS RM 638423
+
+*THANK YOU FOR USING GEMpak CALCULATOR *
+
+MENU
+
+1. REGISTER 
+
+2. LOAN CALCULATOR 
+
+3. TYPE HOUSE 
+
+4. E-STATEMENT 
+
+5. EXIT 
+
+SELECT CHOOSE: 3
+
+PLEASE ENTER YOUR BUDGET PRICE :350000
+PACKAGE HOME 3
+DOUBLE STOREY 
+PRICE RM 320000 
+HOUSE LOAN 30 YEARS 
+
+***
+PLEASE ENTER PACKAGE NUMBER IF YOU INTERESETED : 3
+
+PAKEJ 3
+
+YOUR MONTHLY PAYMENT WILL BE :RM 1600.00
+
+MENU
+
+1. REGISTER 
+
+2. LOAN CALCULATOR 
+
+3. TYPE HOUSE 
+
+4. E-STATEMENT 
+
+5. EXIT 
+
+SELECT CHOOSE: 4
+
+ENTER THE LOAN AMOUNT : 
+350000
+
+ENTER THE INTERST RATE : 
+4.5
+
+ENTER THE NUMBER OF YEARS : 
+30
+ Year No 1 : RM 255369.40
+
+ Year No 2 : RM 510738.79
+
+ Year No 3 : RM 766108.19
+
+ Year No 4 : RM 1021477.58
+
+ Year No 5 : RM 1276846.98
+
+ Year No 6 : RM 1532216.38
+
+ Year No 7 : RM 1787585.77
+
+ Year No 8 : RM 2042955.17
+
+ Year No 9 : RM 2298324.57
+
+ Year No 10 : RM 2553693.96
+
+ Year No 11 : RM 2809063.36
+
+ Year No 12 : RM 3064432.75
+
+ Year No 13 : RM 3319802.15
+
+ Year No 14 : RM 3575171.55
+
+ Year No 15 : RM 3830540.94
+
+ Year No 16 : RM 4085910.34
+
+ Year No 17 : RM 4341279.73
+
+ Year No 18 : RM 4596649.13
+
+ Year No 19 : RM 4852018.53
+
+ Year No 20 : RM 5107387.92
+
+ Year No 21 : RM 5362757.32
+
+ Year No 22 : RM 5618126.72
+
+ Year No 23 : RM 5873496.11
+
+ Year No 24 : RM 6128865.51
+
+ Year No 25 : RM 6384234.90
+
+ Year No 26 : RM 6639604.30
+
+ Year No 27 : RM 6894973.70
+
+ Year No 28 : RM 7150343.09
+
+ Year No 29 : RM 7405712.49
+
+ Year No 30 : RM 7661081.88
+
+
+MENU
+
+1. REGISTER 
+
+2. LOAN CALCULATOR 
+
+3. TYPE HOUSE 
+
+4. E-STATEMENT 
+
+5. EXIT 
+
+SELECT CHOOSE: 5
+
+DO YOU WANT TO RETURN TO THE MAIN MENU  ? Y=YES N=NO
+Y
+******####### WELCOME TO GEMpak BANK #######*******
+MAIN MENU
+1. BUSINESS LOAN
+2. PERSONAL ACCOUNT
+3. CREDIT CARD
+4. HOUSING LOAN
+5. INVESTMENT
+******######################################*******
+Please choose your service :5
+------------------------------------- 
+ WELCOME TO GEMpak BANK  
+------------------------------------- 
+
+
+ This are in the Invesment Section . 
+
+Menu 
+1. Register
+2. Do Invest
+3. Future Value
+4. Get Receipt
+5. Exit
+Select choose : 1
+ Please enter your name: NUR MARDIAH
+ Please enter your phone number: 0123658974
+ Please enter your account number: 0213654987321
+Menu 
+1. Register
+2. Do Invest
+3. Future Value
+4. Get Receipt
+5. Exit
+Select choose : 2
+ Enter your Investment amount : 
+1500
+PLEASE PUT 3 OR 6 OR 12 ONLY!
+ Enter Investment tenure : 
+12
+Calculation in Progress.
+
+Calculation Done !
+
+ Profit Payable to Customer : RM 3.95
+
+ Accumulated Profit : RM 47.34
+
+ Total Amount : RM 1547.34
+
+Menu 
+1. Register
+2. Do Invest
+3. Future Value
+4. Get Receipt
+5. Exit
+Select choose : 3
+	 Month       Future Value
+	 Month No 1 : RM 1503.95
+
+	 Month No 2 : RM 1507.89
+
+	 Month No 3 : RM 1511.84
+
+	 Month No 4 : RM 1515.78
+
+	 Month No 5 : RM 1519.73
+
+	 Month No 6 : RM 1523.67
+
+	 Month No 7 : RM 1527.62
+
+	 Month No 8 : RM 1531.56
+
+	 Month No 9 : RM 1535.51
+
+	 Month No 10 : RM 1539.45
+
+	 Month No 11 : RM 1543.40
+
+	 Month No 12 : RM 1547.34
+
+Menu 
+1. Register
+2. Do Invest
+3. Future Value
+4. Get Receipt
+5. Exit
+Select choose : 4
+__________________
+
+	         GEMpak BANK E-Receipt
+ 	Name 	Phone Number 	Account Number  
+
+	NUR	0123658974	0213654987321	
+
+	Registration Date : Sun Feb 06 19:58:37 MYT 2022
+
+	Maturity Date : Mon Feb 06 19:58:37 MYT 2023
+
+	Profit Payable to Customer : RM 3.95
+
+	Accumulated Profit : RM 47.34
+
+	Total Amount : RM 1547.34
+
+	 Month       Future Value
+	 Month No 1 : RM 1503.95
+
+	 Month No 2 : RM 1507.89
+
+	 Month No 3 : RM 1511.84
+
+	 Month No 4 : RM 1515.78
+
+	 Month No 5 : RM 1519.73
+
+	 Month No 6 : RM 1523.67
+
+	 Month No 7 : RM 1527.62
+
+	 Month No 8 : RM 1531.56
+
+	 Month No 9 : RM 1535.51
+
+	 Month No 10 : RM 1539.45
+
+	 Month No 11 : RM 1543.40
+
+	 Month No 12 : RM 1547.34
+
+*This is computer generated receipt, no signature required. 
+__________________
+Menu 
+1. Register
+2. Do Invest
+3. Future Value
+4. Get Receipt
+5. Exit
+Select choose : 5
+------------------------------------------------ 
+
+ 	THANK YOU FOR USING OUR SERVICE.  
+
+------------------------------------------------ 
+
+
+DO YOU WANT TO RETURN TO THE MAIN MENU  ? Y=YES N=NO
+n
+##################################################################
+               <<<<<<YOU CHOOSE TO EXIT>>>>>>  
+           <THANK TOU FOR USING THIS BANK SERVICE> 
+Any problem, feel free to contact our customer service or email us! 
+Customer service number : 09 895 9432
+Email : GEMpakBank@gmail.com
+##################################################################
